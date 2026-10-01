@@ -29,6 +29,19 @@ What the agent can and cannot do → [`docs/CAPABILITIES.md`](docs/CAPABILITIES.
 
 ---
 
+## Screenshots
+
+**1. Smoke Test (Live API with PII Masking):**  
+![Smoke Test](docs/assets/demo_smoke_test.png)
+
+**2. MCP Inspector Setup:**  
+![MCP Inspector Setup](docs/assets/demo_inspector_setup.png)
+
+**3. MCP Inspector Results (Search Tickets):**  
+![MCP Inspector Results](docs/assets/demo_inspector_results.png)
+
+---
+
 ## Quick start
 
 ### 1. Get a Freshdesk API key
