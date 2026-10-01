@@ -39,6 +39,7 @@ What the agent can and cannot do → [`docs/CAPABILITIES.md`](docs/CAPABILITIES.
 
 **3. MCP Inspector Results (Search Tickets):**  
 ![MCP Inspector Results](docs/assets/demo_inspector_results.png)
+![MCP Inspector Results Part 2](docs/assets/demo_inspector_results_2.png)
 
 ---
 
